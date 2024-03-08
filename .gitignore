@@ -34,3 +34,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+travel_ui_ux-main
+travel_ui_ux-main.zip
